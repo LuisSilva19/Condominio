@@ -21,6 +21,6 @@ Passo a passo de como utilizar pelo eclipse:
 
 1: basta rodar a classe "Servidor" no pacote server
 
-2- A´pos servidor de pé entrar no endereco: http://localhost:8080/ProjetoCondominio/condominio/"email"
+2- Apos servidor de pé entrar no endereco: http://localhost:8080/ProjetoCondominio/condominio/"email"
 insira o email que deseja buscar na base de dados e de enter, será retornado os dados necessarios na tela, voce tambem podera ver os dados retornados no console.
 
